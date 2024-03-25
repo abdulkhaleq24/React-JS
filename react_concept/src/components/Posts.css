@@ -1,0 +1,9 @@
+.post-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+.post{
+    border: 1px solid gray;
+    border-radius: 10px;
+}
